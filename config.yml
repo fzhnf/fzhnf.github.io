@@ -1,5 +1,5 @@
 baseURL: "https://fzhnf.github.io"
-title: ExampleSite
+title: fzhnf's blog
 paginate: 5
 theme: PaperMod
 
@@ -15,9 +15,9 @@ minify:
   minifyOutput: true
 
 params:
-  # env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: fzhnf's blog
+  description: "learn cs in very noob way"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -25,7 +25,6 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
