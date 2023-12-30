@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "en-fzhnf"
 
 [params]
 displayName = "EN"
@@ -14,7 +14,7 @@ description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
-name = "Blowfish"
+name = "fzhnf-author"
 image = "img/blowfish_logo.png"
 headline = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
 bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
