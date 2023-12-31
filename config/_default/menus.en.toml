@@ -10,41 +10,41 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
-name = "Docs"
-pageRef = "docs"
-weight = 10
-
-[[main]]
-name = "Shortcodes"
-pageRef = "docs/shortcodes"
-weight = 15
-
-[[main]]
-name = "Samples"
-pageRef = "samples"
-weight = 16
-
-[[main]]
-name = "Examples"
-weight = 20
-
-[[main]]
-name = "Showcase"
-parent = "Examples"
-pageRef = "examples"
-weight = 30
-
-[[main]]
-name = "Recipes"
-parent = "Examples"
-pageRef = "guides"
-weight = 40
-
-[[main]]
-name = "Users"
-pageRef = "users"
-weight = 90
+# [[main]]
+# name = "Docs"
+# pageRef = "docs"
+# weight = 10
+#
+# [[main]]
+# name = "Shortcodes"
+# pageRef = "docs/shortcodes"
+# weight = 15
+#
+# [[main]]
+# name = "Samples"
+# pageRef = "samples"
+# weight = 16
+#
+# [[main]]
+# name = "Examples"
+# weight = 20
+#
+# [[main]]
+# name = "Showcase"
+# parent = "Examples"
+# pageRef = "examples"
+# weight = 30
+#
+# [[main]]
+# name = "Recipes"
+# parent = "Examples"
+# pageRef = "guides"
+# weight = 40
+#
+# [[main]]
+# name = "Users"
+# pageRef = "users"
+# weight = 90
 
 #[[main]]
 #  name = "Merch"
