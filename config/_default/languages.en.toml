@@ -15,10 +15,10 @@ secondaryLogo = "img/pfpv2_transparent.png"
 [author]
 name = "fzhnf-author"
 image = "img/pfpv2.png"
-headline = "Face apprehension with confidence and resolution, Speak justice with courage"
+headline = "A man who is the part of the whole"
 bio = "Courage is a word of justice, it means the quality of mind that enables one to face apprehension with confidence and resolution"
 links = [
-  { x-twitter = "https://twitter.com/burufugu" },
-  { mastodon = "https://masto.ai/@blowfish" },
-  { github = "https://github.com/nunocoracao/blowfish" },
+  { x-twitter = "https://twitter.com/fzhnf_ansa" },
+  { mastodon = "https://mastodin.social/@faiz_ansa" },
+  { github = "https://github.com/fzhnf" },
 ]
